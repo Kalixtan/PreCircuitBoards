@@ -1,0 +1,51 @@
+CLASSICS:
+  PrC5000
+  PrC5005X
+  WITH BUGS:
+    PrC1000 - Flickering screen (does this exist on hardware and the slow screen masks it?)
+
+Prestige/SuperNoteClub:
+  "Genius Leader Magic Color (Germany)"
+  "Genius Winner Notebook Fun (Germany)"
+  "Super Note Club: For Boys" - UNDUMPED!
+  "Genius Winner Notebook Fun (Germany)"
+  "Genius Master Mega Color (Germany)"
+  "PreComputer Prestige Elite" - Crashes Mame
+
+  WITH BUGS:
+    "Genius Leader Magic Color (Germany)" - Mouse jumps if you go to far to the sides (Overflowing value?)
+
+
+"MACHINE_IS_SKELETON"
+  PrC6600cx - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/glcx.cpp
+    "Genius Leader 6600 CX (Germany)"
+    "Genius Leader 8008 CX (Germany)"
+    "BrainStation 9009 CXL (Germany)"
+    "Genius Tabletop Black Magic CX (Germany)"
+  
+  PrCJunior - https://github.com/mamedev/mame/blob/e7d6e93ec5d5d2671461b348a41f1aab7092b504/src/mame/drivers/geniusjr.cpp
+    "Genius Junior 4000 (Germany)"
+    "Scientus (France)"
+    "Genius Junior Movie (Germany)"
+    "Pitagorin Junior"
+    "Genius Junior Redstar (Germany)"
+    "Genius Junior Redstar 2 (Germany)"
+    "Genius Junior Redstar 3 (Germany)"
+    "Genius Junior 5000 (Germany)"
+    "Genius Leader Notebook"
+    "Pitagorin"
+    "Genius Leader Select"
+
+  "Learning-Window" (not exactly PreComputer based) - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/learnwin.cpp
+    "Learning-Window Teaching Machine (Rev 3)"
+    "Learning-Window Teaching Machine (Rev 2)"
+    "Learning-Window Teaching Machine (Rev 1)"
+    "Learning-Window Teaching Machine (French)"
+    "Spiel Master (German)"
+      -- Kevtris's dumps --
+    
+    
+    
+    
+    
+    
