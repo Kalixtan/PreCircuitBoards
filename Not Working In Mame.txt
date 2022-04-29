@@ -74,7 +74,7 @@
       "Mis Primeras Lecciones (Spain)"
       "Genius Junior Profi (Germany)"
 
-    "Learning-Window" - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/learnwin.cpp
+    "Learning-Window" (CPU marked "T7897") - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/learnwin.cpp
       "Learning-Window Teaching Machine (Rev 3)"
       "Learning-Window Teaching Machine (Rev 2)"
       "Learning-Window Teaching Machine (Rev 1)"
