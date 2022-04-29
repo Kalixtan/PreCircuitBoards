@@ -1,6 +1,60 @@
 
 Z80: (The Focus of PreTech)
-    PrC_Prestige - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/prestige.cpp
+
+    PreComputer Classic Line - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/pc2000.cpp
+        PrC1000: - (has Flickering screen)
+            "PreComputer 1000"
+            "Ordisavant (France)"
+
+        MisterX: (what is difrent between this and PrC1000?)
+            "MisterX"
+
+        PrC2000:
+            "PreComputer 2000"
+            "Genius Leader 2000"
+            "Genius Leader 2000 Compact"
+            "Genius Leader 2000 Plus"
+            "Genius BrainStation 5505X (Germany)"
+            "LexiPC Mega 2000 (Germany)"
+
+        PrC2000-EUR: (what is difrent between this and PrC2000?)
+            "PreComputer 2000 (Spain)"
+
+        PrC3000s:
+            "Genius Leader 3000S (Germany)"
+
+        PrC4000s:
+            "Genius Leader 4000 Quadro (Germany)"
+            "Genius Leader 4004 Quadro L (Germany)"
+            "Genius Leader Power Notebook (Germany)"
+            "Genius Master Table Top (Germany)"
+
+        PrC5000: (DOES NOT WORK IN MAME)
+            "Genius Leader 5000 (Germany)"
+            "Genius Leader 5005X (Germany)"
+
+
+    Precomputer Prestige/SuperNoteClub Lines - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/prestige.cpp
+        Prestige:
+            "Genius Leader 6000SL (Germany)"
+            "Genius Leader 7007SL (Germany)"
+            BROKEN IN MAME:
+                "Genius Winner Notebook Fun (Germany)"
+                "PreComputer Prestige Elite" - (CRASHES MAME!!)
+                "Genius Master Mega Color (Germany)" - (shouldnt it be in the color thing?)
+        Color:
+            "Genius Leader Color (Germany)"
+            "Genius Leader Super Color (Germany)"
+            "PC Super Color (Spain)"
+            BROKEN IN MAME:
+                "Genius Leader Magic Color (Germany)"
+        SuperNoteClub:
+            "Super Note Club (Japan)"
+            "Super Note Club EX (Japan)"
+            UNDUMPED:
+                "Super Note Club: For Boys" - (in my colection)
+            Color:
+                "Super Note Club µ (Japan)"
 
     VTech1 (Laser computers) - https://github.com/mamedev/mame/blob/810fd2a9519142f62caad7555c0315d7c598a2cb/src/mame/drivers/vtech1.cpp
         "Video Technology Laser 110"
