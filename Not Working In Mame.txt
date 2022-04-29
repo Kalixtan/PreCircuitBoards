@@ -1,0 +1,111 @@
+(Z80 Based)
+  CLASSICS:
+    PrC5000
+    PrC5005X
+    WITH BUGS:
+      PrC1000 - Flickering screen (does this exist on hardware and the slow screen masks it?)
+
+  Prestige/SuperNoteClub:
+    "Genius Leader Magic Color (Germany)"
+    "Genius Winner Notebook Fun (Germany)"
+    "Super Note Club: For Boys" - UNDUMPED!
+    "Genius Winner Notebook Fun (Germany)"
+    "Genius Master Mega Color (Germany)"
+    "PreComputer Prestige Elite" - Crashes Mame
+
+    WITH BUGS:
+      "Genius Leader Magic Color (Germany)" - Mouse jumps if you go to far to the sides (Overflowing value?)
+
+
+
+
+
+"MACHINE_IS_SKELETON"
+  ( "SunPlus" based )
+    ( UNKNOWN NAME ) - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/generalplus_gpl16250_mobigo.cpp
+      "MobiGo"
+      "MobiGo (Spain)"
+      "MobiGo 2 (Germany)"
+       
+
+  ( "m68000" based )
+    "IQ Unlimited" (ISNT THIS JUST PrCUnlimted based?!) - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/iqunlim.cpp
+      "IQ Unlimited"
+      "IQ Unlimited (Germany)"
+
+
+
+  ( "CR16b" based )
+    PrC6600cx - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/glcx.cpp
+      "Genius Leader 6600 CX (Germany)"
+      "Genius Leader 8008 CX (Germany)"
+      "BrainStation 9009 CXL (Germany)"
+      "Genius Tabletop Black Magic CX (Germany)"
+
+
+
+
+  ( "m68hc05" Based)
+    PrCJunior - https://github.com/mamedev/mame/blob/e7d6e93ec5d5d2671461b348a41f1aab7092b504/src/mame/drivers/geniusjr.cpp
+      "Genius Junior 4000 (Germany)"
+      "Scientus (France)"
+      "Genius Junior Movie (Germany)"
+      "Pitagorin Junior"
+      "Genius Junior Redstar (Germany)"
+      "Genius Junior Redstar 2 (Germany)"
+      "Genius Junior Redstar 3 (Germany)"
+      "Genius Junior 5000 (Germany)"
+      "Genius Leader Notebook"
+      "Pitagorin"
+      "Genius Leader Select"
+
+
+  ( "m6502/st2204" based )
+    "Lerncomputer" - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/inteladv.cpp
+      "Intelligence Advance E/R (Germany)"
+      "DynamiDesk (Germany)"
+      "CARS 2 Laptop (Germany)"
+
+
+
+  (UNKNOWN CPU) 
+    "Genius KID ABC"  - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/gkidabc.cpp
+      "Genius KID ABC Fan (Germany)"
+      "Mis Primeras Lecciones (Spain)"
+      "Genius Junior Profi (Germany)"
+
+    "Learning-Window" - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/learnwin.cpp
+      "Learning-Window Teaching Machine (Rev 3)"
+      "Learning-Window Teaching Machine (Rev 2)"
+      "Learning-Window Teaching Machine (Rev 1)"
+      "Learning-Window Teaching Machine (French)"
+      "Spiel Master (German)"
+        -- Kevtris's dumps --
+
+
+
+    
+ ( "ARM7" based ) (will not be subported by PreTech)
+   "VTech Storio and VTech V.Reader" - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/storio.cpp
+      "V.Reader (US, English, 2011-10-17)"
+      "V.Reader (CA, English, 2011-10-17)"
+      "V.Reader (CA, French, 2011-10-17)"
+      "Storio (GB, English, 2011-10-17)"
+      "Storio (DE, German, 2011-10-17)"
+      "Storio (ES, Spanish, 2011-10-17)"
+      "Storio (ES, Spanish, 2011-06-17?)"
+      "Storio (FR, French, 2011-10-17)"
+      "Storio (NL, Dutch, 2011-10-17)"
+
+
+    "VTech InnoTV / InnoTab MAX" - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/innotv_innotabmax.cpp
+      "InnoTV"
+
+
+    "V.Smile Pro CD System" - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/vsmilepro.cpp
+      "V.Smile Pro"
+
+
+
+
+    
