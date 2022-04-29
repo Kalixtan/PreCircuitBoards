@@ -1,0 +1,96 @@
+
+Z80: (The Focus of PreTech)
+    PrC_Prestige - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/prestige.cpp
+
+    VTech1 (Laser computers) - https://github.com/mamedev/mame/blob/810fd2a9519142f62caad7555c0315d7c598a2cb/src/mame/drivers/vtech1.cpp
+        "Video Technology Laser 110"
+        "Video Technology Laser 200"
+            "Salora Fellow"
+            "Texet TX-8000 (?)"
+            "Video Technology VZ-200"
+        "Video Technology Laser 210"
+            "Dick Smith Electronics VZ-200"
+        "Video Technology Laser 310"
+            "Dick Smith Electronics VZ-300"
+
+    VTech2 (Laser Computers) - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/vtech2.cpp
+        "Laser 350"
+        "Laser 500"
+        "Laser 700"
+
+    Laser Compumate2 (more or less a "Classic" Precomputer) - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/lcmate2.cpp
+        "Laser Compumate 2"
+
+    VTech Laser PC4 - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/pc4.cpp
+        "Laser PC4"
+
+    Socrates - https://github.com/mamedev/mame/blob/ca79d71af4bca7c1b8acc1df9e5dbb5b987d1542/src/mame/drivers/socrates.cpp
+         "Socrates Educational Video System"
+         "Socrates SAITOUT"
+         "Professor Weiss-Alles"
+         "IQ Unlimited (Z80)"
+         "Video Painter (PAL)"
+
+
+HMCS40:
+    -OTHER HMCS40 based- (lots of other brands in this driver/core) - https://github.com/mamedev/mame/blob/ab1104db2066845df6f09511505e13cfcc8e7753/src/mame/drivers/hh_hmcs40.cpp
+         "Invaders (VTech)"
+
+
+M68000:
+    PrC_Unlimited - https://github.com/mamedev/mame/blob/380390934c25944b83ca624b1d6857b41f5eba36/src/mame/drivers/geniusiq.cpp
+        "Genius IQ 128 (Germany)"
+        "Genius IQ 128 (France)"
+        "Genius IQ TV 512 (Germany)"
+        "VTech IT Unlimited (UK)"
+
+
+M6502:
+    "CreatiVision" - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/crvision.cpp
+        "CreatiVision"
+        "CreatiVision (Japan)"
+        "CreatiVision MK-II (Europe)"
+        "Wizzard (Oceania)"
+        "Rameses HVC6502 (Oceania)"
+        "VZ 2000 (Oceania)"
+        "Laser 2001"
+        "VZ 2001 (Oceania)"
+        "Manager (Finland)"
+        "FunVision"
+
+    "VTech Laser 3000" - https://github.com/mamedev/mame/blob/ee1e4f9683a4953cb9d88f9256017fcbc38e3144/src/mame/drivers/laser3k.cpp
+        "Laser 3000"
+
+
+Sharp SM5XX
+    -OTHER Sharp SM5XX based- (lots of other brands in this driver/core) https://github.com/mamedev/mame/blob/bc8156ac68051503df6bac086b88885d2a4cd574/src/mame/drivers/hh_sm510.cpp
+        "VTech Electronic Number Muncher"
+
+
+AVR8:
+    "Pense Bem (TecToy 2017)" (clone of "VTech Smart Start") - https://github.com/mamedev/mame/blob/3d005db62ea6cc99f9fd4bf2756ed186ff9fd872/src/mame/drivers/pensebem.cpp
+
+
+F1:
+    VTech Game Machine tabletop/handheld (UNTESTED) - https://github.com/mamedev/mame/blob/747080b5b51db27174c1496cfc2696f0ce7c9bb0/src/mame/drivers/gamemachine.cpp
+        "VTech / Waddingtons", "The Game Machine"
+        "4 in 1 Electronic Games (VTech)"
+
+
+SUBPLUS:
+    SPG28X:
+        V.Smile Baby - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/vsmileb.cpp
+
+    SPG2XX:
+        V.Smile - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/vsmile.cpp
+
+        -OTHER SPG2XX based- (lots of other brands in this driver/core) - https://github.com/mamedev/mame/blob/c4beb694318c5b7e041bafcadd55505430c01ef9/src/mame/drivers/spg2xx.cpp
+            TV Station
+              "TV Station (VTech, Spain)"
+              "TV Learning Station (VTech, Germany)"
+            
+            "Dora the Explorer - Dora TV Explorer Phone / Boots's Special Day"
+            "Dora the Explorer - Dora TV Adventure Globe"
+            "Dora the Explorer - Doras Abenteuer-Globus (Germany)"
+            
+
