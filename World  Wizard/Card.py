@@ -18,11 +18,15 @@ def get_answers( pins ):
         "71846253",
         "16382574"
     ]
+
+    #print(int('{:05b}'.format(1)[::-1], 2))
+    
     offset = card_pins_to_int(pins)
     if offset == -1:
+        print('{:05b}'.format(pins))
         return
     
-    Sheets_id = int(offset >= 7) # SHEET
+    Sheets_id = int(offset >= 9) # SHEET
 
     answers = []
     for i in range(8):
@@ -37,7 +41,23 @@ def get_answers( pins ):
         s += ": "
         s += str(answers[i])
         s += " - "
-    print(s[:-3]+" )")
+    #print(s[:-3]+" )")
 
-for i in range(0x1F):
+#get_answers( int('01111', 2) )
+
+for i in range(0x1f):
     get_answers( i )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
