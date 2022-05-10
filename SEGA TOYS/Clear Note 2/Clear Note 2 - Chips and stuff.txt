@@ -1,0 +1,70 @@
+
+PRODUCT NAME: "SEGA CLEARNOTE 2"
+codename: "Sup-NB"
+PCB-DATE: "2000/Aug/16"
+PUBLISHER: SEGA-TOYS
+MAIN-BOARD-NAME: "RL-315AB"
+
+
+Video of walk around of the main board / mouse board / cart board / SOC-CARD
+https://drive.google.com/file/d/1toNdea4tHK6sjnlJ9WOWB9Pt12UevcTp/view?usp=sharing
+
+
+Notes: All label names are ones from the pcb
+
+
+-- MicroController [RL-315G1] --
+
+(printer port faceing left)
+
+                                PO0 || PA0 -> ( keyboard matrix OUT? )
+                                PO1 || PA1 -> ( keyboard matrix OUT? )
+                                PO2 || PA2 -> ( keyboard matrix OUT? )
+                                PO2 || PA3 -> ( keyboard matrix OUT? )
+                                PO3 || PA4 -> ( keyboard matrix OUT? )
+                                PO4 || PA5 -> ( keyboard matrix OUT? )
+                                PO5 || PA6 -> ( keyboard matrix OUT? )
+                                PO6 || PA7 -> ( keyboard matrix OUT? )
+(keyboard metrix last bit?) ->  PO7 || PB7 -> ( keyboard matrix OUT? )
+                                RST || PB5 -> ( keyboard matrix OUT? )
+                                PB6 || PB4 -> ( keyboard matrix OUT? )
+     (Cartridge port "DI") <?>  PB0 || P17 <- ( keyboard matrix IN? )
+     (Cartridge port "SK") <?>  PB1 || P16 <- ( keyboard matrix IN? )
+                                PB2 || P15 <- ( keyboard matrix IN? )
+                                PB3 || P14 <- ( keyboard matrix IN? )
+                                GND || P13 <- ( keyboard matrix IN? )
+                                VDD || P12 <- ( keyboard matrix IN? )
+                               AUD1 || P11 <- ( keyboard matrix IN? )
+                               AUD2 || P10 <- ( keyboard matrix IN? )
+
+
+
+
+-- Cart connector --
+( Pins are combined on both the carts as well as the computer)
+
+GND || V
+GND || V
+GND || G
+GND || G
+GND || G
+GND || DI
+GND || DI
+GND || DI
+GND || SK
+GND || SK
+
+
+-- cart board to main PCB --
+ V -> VDD (TO TOP SCREEN BOARD)
+ G -> GND (TO TOP SCREEN BOARD)
+DI -> PB0
+SK -> PB1
+
+
+
+
+
+
+
+
