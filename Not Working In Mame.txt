@@ -29,7 +29,7 @@
        
 
   ( "m68000" based )
-    "IQ Unlimited" (ISNT THIS JUST PrCUnlimted based?!) - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/iqunlim.cpp
+    "IQ Unlimited" (ISNT THIS JUST PrC Unlimted?!) - https://github.com/mamedev/mame/blob/97de6a1cf2db4eb57884daaff29e7d0c935dd671/src/mame/drivers/iqunlim.cpp
       "IQ Unlimited"
       "IQ Unlimited (Germany)"
 
